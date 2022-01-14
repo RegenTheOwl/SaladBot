@@ -1,5 +1,6 @@
 package sql.mapper;
 
-public interface BotMapper {
+public interface BotMapper
+{
     String getToken(String botName);
 }
